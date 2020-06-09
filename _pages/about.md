@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduate with a B.S. in Biomedical Engineering from Johns Hopkins University.
+I recently graduated with a B.S. in Biomedical Engineering from Johns Hopkins University.
 My focus area was in Biomedical Data Science, where I did a lot of work in machine
 learning and signal processing. I am most interested in using computational methods to
 enhance our understanding of the human body and natural phenomena so that we can
