@@ -8,13 +8,11 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[Course Webpage](http://www.cis.jhu.edu/~bbejar/bmds/)
 
-Heading 1
-======
+In this lab class, students use machine learning methods to perform simple data science tasks, such as classifying biological signals and images. Students built algorithms from scratch in Python and also used libraries like PyTorch to build neural networks and more advanced pipelines.
 
-Heading 2
-======
-
-Heading 3
-======
+**Main Duties**
+- Answer questions and guide students during lab work as they navigate Python, packages, and new ML methods.
+- Hold office hours weekly to provide help and guidance on assignments.
+- Grade homework and projects.
