@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Gavin Mischler"
-  avatar           : "profile.jpeg"
-  bio              : "BME undergrad at Johns Hopkins specializing in biomedical data science. Extensive industry and academic experience in machine learning and signal processing."
+  avatar           : "profile.png"
+  bio              : "BME undergrad at Johns Hopkins specializing in biomedical data science. Interested in machine learning and signal processing applications for neuroscience and medicine."
   location         : "Baltimore"
   employer         :
   pubmed           :
