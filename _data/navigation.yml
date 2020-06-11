@@ -6,8 +6,11 @@ main:
   - title: "Teaching"
     url: /teaching/
         
+  # - title: "Blog"
+  #   url: /year-archive/
+
   - title: "Interests"
-    url: /year-archive/
-    
+    url: /interests/
+
   - title: "CV"
     url: /files/Gavin_Mischler_CV_Public.pdf
