@@ -11,6 +11,10 @@ Ever since my first time putting on boots and snapping into skis, I've absolutel
 
 ![Skiing1](/images/skiing-1.jpg "Back bowls at Vail")
 
-![Skiing2](/images/skiing-2.jpg "A chilly chairlift")
+![Skiing2](/images/skiing-2.JPG "A chilly chairlift")
 
-![Skiing3](/images/skiing-3.jpg "What a view")
+![Skiing3](/images/skiing-3.JPG "What a view")
+
+I also love watching movies and reading sci-fi and fantasy novels. Here are some of my favorites.
+
+
