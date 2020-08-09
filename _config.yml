@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gavin Mischler"
 title_separator          : "-"
 name                     : &name "Gavin Mischler"
-description              : &description "BME Student at Johns Hopkins University"
+description              : &description "Electrical Engineering Graduate Student at Columbia University"
 url                      : https://gmischl1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gmischl1/gmischl1.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Gavin Mischler"
   avatar           : "profile.png"
   bio              : "BME undergrad at Johns Hopkins specializing in biomedical data science. Interested in machine learning and signal processing applications for neuroscience and medicine."
-  location         : "Baltimore"
+  location         : "New York, NY"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=v8hF5dMAAAAJ&hl=en"
