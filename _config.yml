@@ -11,9 +11,9 @@ title                    : "Gavin Mischler"
 title_separator          : "-"
 name                     : &name "Gavin Mischler"
 description              : &description "Electrical Engineering Graduate Student at Columbia University"
-url                      : https://gmischl1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gavinmischler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gmischl1/gmischl1.github.io"
+repository               : "gavinmischler/gavinmischler.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gmischl1"
+  github           : "gavinmischler"
   google_plus      :
   keybase          :
   instagram        :
