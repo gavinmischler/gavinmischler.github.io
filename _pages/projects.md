@@ -6,7 +6,13 @@ author_profile: true
 
 ---
 
-## A Multiview Machine Learning Package for Python
+## Spike Rate Estimation Algorithm with Broad Applications
+
+Research performed with [Dr. Benjamín Béjar](https://people.epfl.ch/benjamin.bejarharo/?lang=en).
+
+[Code](https://github.com/gavinmischler/spikeFRInder)
+
+## Multiview Machine Learning Package for Python
 
 Capstone project for 580.437/438 NeuroData Design (Fall 2019/Spring 2020).
 
