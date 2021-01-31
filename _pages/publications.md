@@ -10,7 +10,10 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-Hu, Katherine, Maya M. Lapinski, Gavin Mischler, Robert H. Allen, Amir Manbachi, and Rachel Chan Seay. "Improved Treatment of Postpartum Hemorrhage: Design, Development, and Bench-Top Validation of a Reusable Intrauterine Tamponade Device for Low-Resource Settings." Journal of Medical Devices 14, no. 1 (2020). ([link](https://asmedigitalcollection.asme.org/medicaldevices/article/14/1/014503/1072514/Improved-Treatment-of-Postpartum-Hemorrhage-Design))
+Zobeiri, Omid A., Gavin M. Mischler, Susan A. King, Richard F. Lewis, and Kathleen E. Cullen. Effects of vestibular neurectomy and neural compensation on head movements in patients undergoing vestibular schwannoma resection. Sci Rep 11, 517 (2021).
+([link](https://doi.org/10.1038/s41598-020-79756-3))
+
+Hu, Katherine, Maya M. Lapinski, Gavin Mischler, Robert H. Allen, Amir Manbachi, and Rachel Chan Seay. "Improved Treatment of Postpartum Hemorrhage: Design, Development, and Bench-Top Validation of a Reusable Intrauterine Tamponade Device for Low-Resource Settings." Journal of Medical Devices 14, no. 1 (2020). ([link](https://doi.org/10.1115/1.4045965))
 
 ## Preprints
 
