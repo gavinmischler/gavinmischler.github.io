@@ -16,7 +16,7 @@ Research performed with [Dr. Benjamín Béjar](https://people.epfl.ch/benjamin.b
 
 Capstone project for 580.437/438 NeuroData Design (Fall 2019/Spring 2020).
 
-[Website](https://mvlearn.github.io/), [Paper](https://arxiv.org/abs/2005.11890), [Github](https://github.com/NeuroDataDesign/multiview)
+[Website](https://mvlearn.github.io/), [Paper](https://arxiv.org/abs/2005.11890), [Github](https://github.com/mvlearn/mvlearn)
 
 ## Identifying New Genetic Features to Predict Cilantro Taste
 

@@ -17,5 +17,5 @@ Hu, Katherine, Maya M. Lapinski, Gavin Mischler, Robert H. Allen, Amir Manbachi,
 
 ## Preprints
 
-Perry, Ronan, Gavin Mischler, Richard Guo, Theo Lee, Alexander Chang, Arman Koul, Cameron Franz, and Joshua T. Vogelstein. "mvlearn: Multiview Machine Learning in Python." arXiv preprint arXiv:2005.11890 (2020). ([link](https://arxiv.org/abs/2005.11890))
+Perry, Ronan, Gavin Mischler, Richard Guo, Theo Lee, Alexander Chang, Arman Koul, Cameron Franz, and Joshua T. Vogelstein. "mvlearn: Multiview Machine Learning in Python." arXiv preprint arXiv:2005.11890 (2020). ([link](https://arxiv.org/abs/2005.11890)) ([Website](https://mvlearn.github.io/)) ([Github](https://github.com/mvlearn/mvlearn))
 
