@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gavin Mischler"
 title_separator          : "-"
 name                     : &name "Gavin Mischler"
-description              : &description "Electrical Engineering Graduate Student at Columbia University"
+description              : &description "MS/PhD student in Electrical Engineering at Columbia"
 url                      : https://gavinmischler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gavinmischler/gavinmischler.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gavin Mischler"
   avatar           : "profile.png"
-  bio              : "Electrical Engineering graduate student at Columbia. Undergrad in BME from JHU focusing on biomedical data science. Interested in machine learning and signal processing applications for neuroscience and medicine."
+  bio              : "MS/PhD student in Electrical Engineering at Columbia. Fields of interest: Neuroscience, machine learning, signal processing."
   location         : "New York, NY"
   employer         :
   pubmed           :
