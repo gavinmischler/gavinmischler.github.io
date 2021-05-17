@@ -6,6 +6,12 @@ author_profile: true
 
 ---
 
+## Simulating a Rapid, Minimalist BCI Keypad from Steady State Visual Evoked Potentials
+
+Final project for EEBME 6099 Brain-Computer Interfaces (Spring 2021).
+
+[Project Paper](/files/BCI_project_paper.pdf)
+
 ## mvlearn
 
 Multiview machine learning package for Python. Capstone project for 580.437/438 NeuroData Design (Fall 2019/Spring 2020).
