@@ -24,7 +24,7 @@ Multiview machine learning package for Python. Capstone project for 580.437/438 
 
 Research performed with [Dr. Benjamín Béjar](https://people.epfl.ch/benjamin.bejarharo/?lang=en).
 
-[Github](https://github.com/gavinmischler/spikeFRInder)
+[Paper](https://doi-org.ezproxy.cul.columbia.edu/10.1109/IEEECONF51394.2020.9443495) [Github](https://github.com/gavinmischler/spikeFRInder)
 
 ## Identifying New Genetic Features to Predict Cilantro Taste
 
