@@ -10,10 +10,6 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-Béjar, Benjamín and Gavin Mischler. "A finite rate of innovation approach for the estimation of a stream of decaying exponentials." 2020 54th Asilomar Conference on Signals, Systems, and Computers, (2020): 1497-1501.
-
-[Paper](https://doi-org.ezproxy.cul.columbia.edu/10.1109/IEEECONF51394.2020.9443495) [Code](https://github.com/gavinmischler/spikeFRInder)
-
 Perry, Ronan, Gavin Mischler, Richard Guo, Theodore Lee, Alexander Chang, Arman Koul, Cameron Franz, Hugo Richard, Iain Carmichael, Pierre Ablin, Alexandre Gramfort, and Joshua T. Vogelstein. "mvlearn: Multiview Machine Learning in Python." Journal of Machine Learning Research 22, no. 109 (2021): 1-7.
 
 ([Paper](https://www.jmlr.org/papers/volume22/20-1370/20-1370.pdf)) [Code](https://github.com/mvlearn/mvlearn))
@@ -21,6 +17,10 @@ Perry, Ronan, Gavin Mischler, Richard Guo, Theodore Lee, Alexander Chang, Arman 
 Zobeiri, Omid A., Gavin M. Mischler, Susan A. King, Richard F. Lewis, and Kathleen E. Cullen. "Effects of vestibular neurectomy and neural compensation on head movements in patients undergoing vestibular schwannoma resection." Scientific reports 11, no. 1 (2021): 1-14.
 
 ([Paper](https://doi.org/10.1038/s41598-020-79756-3))
+
+Béjar, Benjamín and Gavin Mischler. "A finite rate of innovation approach for the estimation of a stream of decaying exponentials." 2020 54th Asilomar Conference on Signals, Systems, and Computers, (2020): 1497-1501.
+
+[Paper](https://doi-org.ezproxy.cul.columbia.edu/10.1109/IEEECONF51394.2020.9443495) [Code](https://github.com/gavinmischler/spikeFRInder)
 
 Hu, Katherine, Maya M. Lapinski, Gavin Mischler, Robert H. Allen, Amir Manbachi, and Rachel Chan Seay. "Improved Treatment of Postpartum Hemorrhage: Design, Development, and Bench-Top Validation of a Reusable Intrauterine Tamponade Device for Low-Resource Settings." Journal of Medical Devices 14, no. 1 (2020).
 
