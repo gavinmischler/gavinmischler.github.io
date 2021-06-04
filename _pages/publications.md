@@ -10,6 +10,10 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
+Perry, Ronan, Gavin Mischler, Richard Guo, Theodore Lee, Alexander Chang, Arman Koul, Cameron Franz, Hugo Richard, Iain Carmichael, Pierre Ablin, Alexandre Gramfort, and Joshua T. Vogelstein. "mvlearn: Multiview Machine Learning in Python". Journal of Machine Learning Research 22, no. 109 (2021): 1-7.
+
+([Paper](https://www.jmlr.org/papers/volume22/20-1370/20-1370.pdf)) [Code](https://github.com/mvlearn/mvlearn))
+
 Zobeiri, Omid A., Gavin M. Mischler, Susan A. King, Richard F. Lewis, and Kathleen E. Cullen. Effects of vestibular neurectomy and neural compensation on head movements in patients undergoing vestibular schwannoma resection. Sci Rep 11, 517 (2021).
 
 ([Paper](https://doi.org/10.1038/s41598-020-79756-3))
@@ -18,11 +22,6 @@ Hu, Katherine, Maya M. Lapinski, Gavin Mischler, Robert H. Allen, Amir Manbachi,
 
 ([Paper](https://doi.org/10.1115/1.4045965))
 
-## Preprints
-
-Perry, Ronan, Gavin Mischler, Richard Guo, Theo Lee, Alexander Chang, Arman Koul, Cameron Franz, Hugo Richard, Pierre Ablin, Iain Carmichael, Alexandre Gramfort, and Joshua T. Vogelstein. "mvlearn: Multiview Machine Learning in Python." arXiv preprint arXiv:2005.11890 (2020).
-
-([Paper](https://arxiv.org/abs/2005.11890)) ([Website](https://mvlearn.github.io/)) ([Github](https://github.com/mvlearn/mvlearn))
 
 ## Conference Posters and Presentations
 
