@@ -18,7 +18,7 @@ Zobeiri, Omid A., Gavin M. Mischler, Susan A. King, Richard F. Lewis, and Kathle
 
 ([Paper](https://doi.org/10.1038/s41598-020-79756-3))
 
-Béjar, Benjamín and Gavin Mischler. "A finite rate of innovation approach for the estimation of a stream of decaying exponentials." 2020 54th Asilomar Conference on Signals, Systems, and Computers, (2020): 1497-1501.
+Béjar, Benjamín, and Gavin Mischler. "A finite rate of innovation approach for the estimation of a stream of decaying exponentials." In 2020 54th Asilomar Conference on Signals, Systems, and Computers, pp. 1497-1501. IEEE, 2020.
 
 ([Paper](https://doi-org.ezproxy.cul.columbia.edu/10.1109/IEEECONF51394.2020.9443495)) ([Code](https://github.com/gavinmischler/spikeFRInder))
 
