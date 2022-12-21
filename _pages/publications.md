@@ -10,6 +10,8 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
+Mischler, G., Keshishian, M., Bickel, S., Mehta, A.D. and Mesgarani, N., 2022. Deep neural networks effectively model neural adaptation to changing background noise and suggest nonlinear noise filtering methods in auditory cortex. NeuroImage, p.119819. ([Paper](https://doi.org/10.1016/j.neuroimage.2022.119819))
+
 Perry, Ronan, Gavin Mischler, Richard Guo, Theodore Lee, Alexander Chang, Arman Koul, Cameron Franz, Hugo Richard, Iain Carmichael, Pierre Ablin, Alexandre Gramfort, and Joshua T. Vogelstein. "mvlearn: Multiview Machine Learning in Python." Journal of Machine Learning Research 22, no. 109 (2021): 1-7. ([Paper](https://www.jmlr.org/papers/volume22/20-1370/20-1370.pdf)) ([Code](https://github.com/mvlearn/mvlearn))
 
 Zobeiri, Omid A., Gavin M. Mischler, Susan A. King, Richard F. Lewis, and Kathleen E. Cullen. "Effects of vestibular neurectomy and neural compensation on head movements in patients undergoing vestibular schwannoma resection." Scientific reports 11, no. 1 (2021): 1-14. ([Paper](https://doi.org/10.1038/s41598-020-79756-3))
