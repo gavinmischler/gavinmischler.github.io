@@ -10,7 +10,7 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-Mischler, G., Keshishian, M., Bickel, S., Mehta, A.D. and Mesgarani, N., 2022. Deep neural networks effectively model neural adaptation to changing background noise and suggest nonlinear noise filtering methods in auditory cortex. NeuroImage, p.119819. ([Paper](https://doi.org/10.1016/j.neuroimage.2022.119819))
+Mischler, Gavin, Menoua Keshishian, Stephan Bickel, Ashesh D. Mehta, and Nima Mesgarani. "Deep neural networks effectively model neural adaptation to changing background noise and suggest nonlinear noise filtering methods in auditory cortex." NeuroImage (2022): 119819. ([Paper](https://doi.org/10.1016/j.neuroimage.2022.119819))
 
 Perry, Ronan, Gavin Mischler, Richard Guo, Theodore Lee, Alexander Chang, Arman Koul, Cameron Franz, Hugo Richard, Iain Carmichael, Pierre Ablin, Alexandre Gramfort, and Joshua T. Vogelstein. "mvlearn: Multiview Machine Learning in Python." Journal of Machine Learning Research 22, no. 109 (2021): 1-7. ([Paper](https://www.jmlr.org/papers/volume22/20-1370/20-1370.pdf)) ([Code](https://github.com/mvlearn/mvlearn))
 
@@ -23,11 +23,13 @@ Hu, Katherine, Maya M. Lapinski, Gavin Mischler, Robert H. Allen, Amir Manbachi,
 
 ## Conference Posters and Presentations
 
-Omid Zobeiri, Gavin Mischler, Susan King, Richard Lewis, Kathleen Cullen. Identification of Vestibular Impairment in Schwannoma Patients Relative to Healthy Controls Requires Testing During More Challenging Gait Tests. Association for Research in Otolaryngology Midwinter Meeting, Baltimore, 2019.
+Gavin Mischler, Menoua Keshishian, Stephan Bickel, Ashesh D. Mehta, and Nima Mesgarani. *Modeling non-linear dynamics of auditory cortical adaptation to changing background noise with deep neural networks.* Neuroscience, San Diego, 2022.
 
-Aseem Jain, Sanjay Elangovan, Gavin Mischler, Taha Baig, Darian Low, Hadley VanRenterghem, Siya Zhang, Keilani Caruso, Gianluca Silva Croso, John Carey, Francis Creighton. A Bone Conducting Distortion Product Otoacoustic Emissions (DPOE) System for Newborn Hearing Screening in Low Resource Settings. Association for Research in Otolaryngology Midwinter Meeting, Baltimore, 2019.
+Omid Zobeiri, Gavin Mischler, Susan King, Richard Lewis, Kathleen Cullen. *Identification of Vestibular Impairment in Schwannoma Patients Relative to Healthy Controls Requires Testing During More Challenging Gait Tests.* Association for Research in Otolaryngology Midwinter Meeting, Baltimore, 2019.
 
-Gavin Mischler, Omid Zobeiri, Susan King, Richard Lewis, Kathleen Cullen.  Head Movement During Functional Gait Assessment Predicts Clinical Measures in Vestibular Patients. Barany Society Meeting, Uppsala, 2018.
+Aseem Jain, Sanjay Elangovan, Gavin Mischler, Taha Baig, Darian Low, Hadley VanRenterghem, Siya Zhang, Keilani Caruso, Gianluca Silva Croso, John Carey, Francis Creighton. *A Bone Conducting Distortion Product Otoacoustic Emissions (DPOE) System for Newborn Hearing Screening in Low Resource Settings.* Association for Research in Otolaryngology Midwinter Meeting, Baltimore, 2019.
 
-Omid Zobeiri, Gavin Mischler, Susan King, Richard Lewis, Kathleen Cullen. Identification of vestibular impairment in schwannoma patients relative to healthy controls requires testing during more challenging gait tests, while vestibular loss following surgery alters standard gait. Neuroscience, San Diego, 2018.
+Gavin Mischler, Omid Zobeiri, Susan King, Richard Lewis, Kathleen Cullen. *Head Movement During Functional Gait Assessment Predicts Clinical Measures in Vestibular Patients.* Barany Society Meeting, Uppsala, 2018.
+
+Omid Zobeiri, Gavin Mischler, Susan King, Richard Lewis, Kathleen Cullen. *Identification of vestibular impairment in schwannoma patients relative to healthy controls requires testing during more challenging gait tests, while vestibular loss following surgery alters standard gait.* Neuroscience, San Diego, 2018.
 
