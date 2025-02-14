@@ -16,6 +16,8 @@ Leonard, Matthew K., Laura Gwilliams, Kristin K. Sellers, Jason E. Chung, Duo Xu
 
 Li, Yinghao Aaron, Cong Han, Vinay Raghavan, **Gavin Mischler**, and Nima Mesgarani. "Styletts 2: Towards human-level text-to-speech through style diffusion and adversarial training with large speech language models." Advances in Neural Information Processing Systems 36 (2024). ([Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/3eaad2a0b62b5ed7a2e66c2188bb1449-Paper-Conference.pdf))
 
+**Mischler, Gavin**, Vinay Raghavan, Menoua Keshishian, and Nima Mesgarani. "naplib-python: Neural acoustic data processing and analysis tools in python." Software Impacts, 17 (2023) 100541. ([Paper](https://doi.org/10.1016/j.simpa.2023.100541))  ([Code](https://github.com/naplab/naplib-python))
+
 **Mischler, Gavin**, Menoua Keshishian, Stephan Bickel, Ashesh D. Mehta, and Nima Mesgarani. "Deep neural networks effectively model neural adaptation to changing background noise and suggest nonlinear noise filtering methods in auditory cortex." NeuroImage (2022): 119819. ([Paper](https://doi.org/10.1016/j.neuroimage.2022.119819))
 
 Perry, Ronan, **Gavin Mischler**, Richard Guo, Theodore Lee, Alexander Chang, Arman Koul, Cameron Franz, Hugo Richard, Iain Carmichael, Pierre Ablin, Alexandre Gramfort, and Joshua T. Vogelstein. "mvlearn: Multiview Machine Learning in Python." Journal of Machine Learning Research 22, no. 109 (2021): 1-7. ([Paper](https://www.jmlr.org/papers/volume22/20-1370/20-1370.pdf)) ([Code](https://github.com/mvlearn/mvlearn))
@@ -27,7 +29,11 @@ Béjar, Benjamín, and **Gavin Mischler**. "A finite rate of innovation approach
 Hu, Katherine, Maya M. Lapinski, **Gavin Mischler**, Robert H. Allen, Amir Manbachi, and Rachel Chan Seay. "Improved Treatment of Postpartum Hemorrhage: Design, Development, and Bench-Top Validation of a Reusable Intrauterine Tamponade Device for Low-Resource Settings." Journal of Medical Devices 14, no. 1 (2020). ([Paper](https://doi.org/10.1115/1.4045965))
 
 
-## Conference Posters and Presentations
+## Talks, Conference Posters, and Presentations
+
+Yinghao Aaron Li, **Gavin Mischler**, Stephan Bickel, Ashesh D. Mehta, and Nima Mesgarani. *The impact of
+musical expertise on disentangled and contextual neural encoding of music revealed by generative music
+models* Podium talk at Association for Research in Otolaryngology Midwinter Meeting, Orlando, 2025.
 
 **Gavin Mischler**, Menoua Keshishian, Stephan Bickel, Ashesh D. Mehta, and Nima Mesgarani. *Modeling non-linear dynamics of auditory cortical adaptation to changing background noise with deep neural networks.* Neuroscience, San Diego, 2022.
 
