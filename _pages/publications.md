@@ -10,6 +10,10 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
+**Mischler, Gavin**, Yinghao Aaron Li, Stephan Bickel, Ashesh D. Mehta, and Nima Mesgarani. "The impact of musical expertise on disentangled and contextual neural encoding of music revealed by generative music models." Nature Communications 16, no. 1 (2025): 8874. ([Paper](https://doi.org/10.1038/s41467-025-63961-7))
+
+Shams, Siavash, Richard Antonello, **Gavin Mischler**, Stephan Bickel, Ashesh Mehta, and Nima Mesgarani. "Neuro2Semantic: A Transfer Learning Framework for Semantic Reconstruction of Continuous Language from Human Intracranial EEG." Interspeech (2025). ([Paper](https://arxiv.org/abs/2506.00381))
+
 **Mischler, Gavin**, Yinghao Aaron Li, Stephan Bickel, Ashesh D. Mehta, and Nima Mesgarani. "Contextual feature extraction hierarchies converge in large language models and the brain." Nature Machine Intelligence (2024). ([Paper](https://doi.org/10.1038/s42256-024-00925-4))
 
 Leonard, Matthew K., Laura Gwilliams, Kristin K. Sellers, Jason E. Chung, Duo Xu, **Gavin Mischler**, Nima Mesgarani, Marleen Welkenhuysen, Barundeb Dutta, and Edward F. Chang. "Large-scale single-neuron speech sound encoding across the depth of human cortex." Nature 626, no. 7999 (2024): 593-602. ([Paper](https://doi.org/10.1038/s41586-023-06839-2))
