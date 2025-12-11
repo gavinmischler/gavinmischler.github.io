@@ -13,5 +13,5 @@ main:
   # - title: "Blog"
   #   url: /year-archive/
 
-  - title: "Interests"
-    url: /interests/
+  # - title: "Interests"
+  #   url: /interests/
