@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gavin Mischler"
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpeg"
   bio              : "MS/PhD student in Electrical Engineering at Columbia. Fields of interest: Neuroscience, machine learning, signal processing."
   location         : "New York, NY"
   employer         :
