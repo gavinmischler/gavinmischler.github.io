@@ -10,6 +10,8 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
+Keshishian, Menoua, **Gavin Mischler**, Samuel Thomas, Brian Kingsbury, Stephan Bickel, Ashesh D. Mehta, and Nima Mesgarani. "Parallel hierarchical encoding of linguistic representations in the human auditory cortex and recurrent automatic speech recognition systems." Nature Machine Intelligence (2026): 1-13. ([Paper](https://doi.org/10.1038/s42256-026-01185-0))
+
 **Mischler, Gavin**, Yinghao Aaron Li, Stephan Bickel, Ashesh D. Mehta, and Nima Mesgarani. "The impact of musical expertise on disentangled and contextual neural encoding of music revealed by generative music models." Nature Communications 16, no. 1 (2025): 8874. ([Paper](https://doi.org/10.1038/s41467-025-63961-7))
 
 Shams, Siavash, Richard Antonello, **Gavin Mischler**, Stephan Bickel, Ashesh Mehta, and Nima Mesgarani. "Neuro2Semantic: A Transfer Learning Framework for Semantic Reconstruction of Continuous Language from Human Intracranial EEG." Interspeech (2025). ([Paper](https://arxiv.org/abs/2506.00381))
