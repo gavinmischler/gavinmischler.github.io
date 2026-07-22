@@ -10,6 +10,8 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
+He, Linyang, Tianjun Zhong, Richard Antonello, **Gavin Mischler**, Micah Goldblum, and Nima Mesgarani. "Far from the shallow: Brain-predictive reasoning embedding through residual disentanglement." Advances in Neural Information Processing Systems 38 (2026): 70967-70989. ([Paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/66e1ce5eb3fc0581f06116fa99447f44-Paper-Conference.pdf))
+
 Keshishian, Menoua, **Gavin Mischler**, Samuel Thomas, Brian Kingsbury, Stephan Bickel, Ashesh D. Mehta, and Nima Mesgarani. "Parallel hierarchical encoding of linguistic representations in the human auditory cortex and recurrent automatic speech recognition systems." Nature Machine Intelligence (2026): 1-13. ([Paper](https://doi.org/10.1038/s42256-026-01185-0))
 
 **Mischler, Gavin**, Yinghao Aaron Li, Stephan Bickel, Ashesh D. Mehta, and Nima Mesgarani. "The impact of musical expertise on disentangled and contextual neural encoding of music revealed by generative music models." Nature Communications 16, no. 1 (2025): 8874. ([Paper](https://doi.org/10.1038/s41467-025-63961-7))
