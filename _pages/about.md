@@ -9,9 +9,13 @@ redirect_from:
 
 ---
 
-## Current Work
+## Where I Am Now
 
-I am an MS/PhD student at Columbia University in the department of Electrical Engineering, where I am an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/). I conduct research in the [Neural Acoustic Processing Lab](http://naplab.ee.columbia.edu/), under the supervision of [Dr. Nima Mesgarani](http://nima.ee.columbia.edu/). My work is at the intersection of neuroscience, machine learning, and biology. Specifically, I am interested in modeling the representations of language and sound in the auditory cortex with the goal of understanding how different types of sounds are processed through innate bottom-up processing and high-level cognitive information.
+I am a MD candidate at Harvard Medical School, where I am interested in applying my computational background to healthcare challenges and designing new ways of investigating, diagnosing, and treating disease.
+
+## PhD Work
+
+I earned my PhD from the department of Electrical Engineering at Columbia University, where I was an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/). I conducted research in the [Neural Acoustic Processing Lab](http://naplab.ee.columbia.edu/), under the supervision of [Dr. Nima Mesgarani](http://nima.ee.columbia.edu/). My work was at the intersection of neuroscience, machine learning, and biology. Specifically, I worked on using deep neural networks to model the representations of language and sound in the auditory cortex with the goal of understanding how context influences how different types of sounds are processed. My dissertation was titled [Understanding Contextual and Hierarchical Auditory Processing in the Human Brain through Deep Neural Networks](https://doi.org/10.7916/xdfp-ct31).
 
 
 ## Undergraduate Experience
