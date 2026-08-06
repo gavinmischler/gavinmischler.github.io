@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gavin Mischler"
+title                    : "Gavin Mischler, PhD"
 title_separator          : "-"
 name                     : &name "Gavin Mischler"
-description              : &description "MS/PhD student in Electrical Engineering at Columbia"
+description              : &description "MD Candidate at Harvard Medical School "
 url                      : https://gavinmischler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gavinmischler/gavinmischler.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gavin Mischler"
   avatar           : "profile.jpeg"
-  bio              : "MS/PhD student in Electrical Engineering at Columbia. Fields of interest: Neuroscience, machine learning, signal processing."
+  bio              : "MD Candidate at Harvard Medical School. Interests: Computational medicine, hearing, med-tech."
   location         : "New York, NY"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=v8hF5dMAAAAJ&hl=en"
-  email            : "gm2944@columbia.edu"
+  email            :  #"gm2944@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
